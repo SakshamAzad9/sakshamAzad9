@@ -11,11 +11,10 @@ Welcome to my GitHub profile! I'm **Saksham Azad**, an **AI & ML enthusiast** pa
 
 ### **🔹 ROMIO - AI-Powered Travel Assistant**
 I'm currently working on **ROMIO**, an AI-based travel chatbot that provides **decentralized travel data** to help users explore new places in a more personalized way. The chatbot generates AI-powered itineraries, recommends food spots, rest areas, and shopping locations beyond conventional tools like Google Maps. It also features community-driven recommendations, route optimization, and more.
-
-✅ AI-generated itineraries
-✅ Community-driven recommendations (Reddit + Instagram-style)
-✅ Real-time travel navigation & smart search
-✅ Route optimization & one-ticket travel solutions (Future scope: Travel Buddy, Explorer Profiles, Local Business Portfolios, Radial Ads, and more!)
+- ✅ AI-generated itineraries
+- ✅ Community-driven recommendations (Reddit + Instagram-style)
+- ✅ Real-time travel navigation & smart search
+- ✅ Route optimization & one-ticket travel solutions (Future scope: Travel Buddy, Explorer Profiles, Local Business Portfolios, Radial Ads, and more!)
 
 ## 🚀 Projects & Interests
 
@@ -29,8 +28,7 @@ A deep learning model using **YOLO v10** to detect brain tumors from CT scan ima
 This is an **AI-powered assistant** designed to enhance web search and document-based question answering. It integrates **RAG (Retrieval-Augmented Generation)** to provide better and more relevant answers from web searches and PDFs.
 
 ### **🔹 Voice Authentication System**
-A **voice authentication system** designed to improve security through **AI and ML**. It focuses on **real-time speaker recognition** and **fraud detection**.
-
+This **Voice Authentication System** verifies a user's identity based on their voice using **MFCC features** and a **three-step verification process**. The system allows users to **upload or record voice samples**, modify the audio (lower frequency & change pitch), and compare them for authentication.
 
 ## 💻 Tech Stack:
 
