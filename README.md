@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm **Saksham Azad**, an **AI & ML enthusiast** pa
 
 ### **🔹 ROMIO - AI-Powered Travel Assistant**
 I'm currently working on **ROMIO**, an AI-based travel chatbot that provides **decentralized travel data** to help users explore new places in a more personalized way. The chatbot generates AI-powered itineraries, recommends food spots, rest areas, and shopping locations beyond conventional tools like Google Maps. It also features community-driven recommendations, route optimization, and more.
+
 ✅ AI-generated itineraries
 ✅ Community-driven recommendations (Reddit + Instagram-style)
 ✅ Real-time travel navigation & smart search
