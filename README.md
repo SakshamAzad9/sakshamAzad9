@@ -66,12 +66,12 @@ A **voice authentication system** designed to improve security through **AI and 
 ### 🔬 Models & Techniques:
 ![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/RAG-%230A0A0A.svg?style=for-the-badge&logo=rag&logoColor=white) ![Large Language Models (LLM)](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=llm&logoColor=white)  
 
-## 🌱 Currently Learning:
+### 🌱 Currently Learning:
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23009688.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 
-## 🌱 Currently Learning
+## ☘️ Currently Learning
 
 - **Advanced Generative AI Models**:
   - Exploring **LLaMA**, **Mistral**, and **DeepSeek** for cutting-edge applications.
