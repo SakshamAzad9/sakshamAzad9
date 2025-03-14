@@ -1,5 +1,7 @@
 # Hi there 👋
 
+
+
 # Saksham Azad (@SakshamAzad9)
 **🚀 AI & ML Enthusiast | Researcher | Developer** 
 
@@ -28,63 +30,46 @@ This is an **AI-powered assistant** designed to enhance web search and document-
 ### **🔹 Voice Authentication System**
 A **voice authentication system** designed to improve security through **AI and ML**. It focuses on **real-time speaker recognition** and **fraud detection**.
 
-## 📌 Skills & Tech Stack
 
-### Languages:
-- Python
-- JavaScript
-- SQL
+## 💻 Tech Stack:
 
-### AI & ML Frameworks:
-- TensorFlow
-- PyTorch
-- YOLO
-- Ollama
-- Hugging Face
-- Scikit-learn
+### 🚀 Languages:
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-### Tools & Platforms:
-- GitHub
-- Streamlit
-- Figma
-- Docker                    🌱 *Learning*
-- Jupyter Notebooks
-- Git
-- Power BI                  🌱 *Learning*
-- Tableau                   🌱 *Learning*
+### 🤖 AI & ML Frameworks:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%23000000.svg?style=for-the-badge&logo=yolo&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23007ACC.svg?style=for-the-badge&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFDA54.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-### Databases:
-- MySQL
-- PostgreSQL               🌱 *Learning*
-- MongoDB                  🌱 *Learning*
+### 🛠️ Tools & Platforms:
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-### Data Science & Machine Learning:
-- Data Science
-- Machine Learning
-- Deep Learning
-- Artificial Neural Networks (ANN)
-- Natural Language Processing (NLP)
-- Prompt Engineering
-- Statistical Modeling    🌱 *Learning*
-- Data Analysis           🌱 *Learning*
-- Data Visualization
+### 🗄️ Databases:
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### Libraries:
-- NumPy
-- Pandas
-- Seaborn
-- RAG
-- LangChain
+🌱
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-### Operating Systems:
-- Linux
+### 📊 Data Science & Machine Learning:
+![Data Science](https://img.shields.io/badge/Data%20Science-%23323330.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=ml&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=deep-learning&logoColor=white)  
+![Artificial Neural Networks (ANN)](https://img.shields.io/badge/ANN-%230A0A0A.svg?style=for-the-badge&logo=neural-network&logoColor=white) ![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-%23F7931E.svg?style=for-the-badge&logo=nlp&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23007ACC.svg?style=for-the-badge&logo=prompt&logoColor=white)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%23150458.svg?style=for-the-badge&logo=tableau&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-%230A0A0A.svg?style=for-the-badge&logo=rag&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logo=langchain&logoColor=white)  
 
-### Design:
-- UI/UX Design (Figma)
+### 📚 Libraries:
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%230A0A0A.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
 
-### Models & Techniques:
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLM)
+### 🖥️ Operating Systems:
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
+
+### 🎨 Design:
+![UI/UX Design (Figma)](https://img.shields.io/badge/UI%2FUX%20Design-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-%23B7240C.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+### 🔬 Models & Techniques:
+![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/RAG-%230A0A0A.svg?style=for-the-badge&logo=rag&logoColor=white) ![Large Language Models (LLM)](https://img.shields.io/badge/LLM-%23007ACC.svg?style=for-the-badge&logo=llm&logoColor=white)  
+
+## 🌱 Currently Learning:
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23009688.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+
 
 ## 🌱 Currently Learning
 
