@@ -44,8 +44,6 @@ This **Voice Authentication System** verifies a user's identity based on their v
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-🌱
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### 📊 Data Science & Machine Learning:
 ![Data Science](https://img.shields.io/badge/Data%20Science-%23323330.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=ml&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=deep-learning&logoColor=white)  
@@ -68,7 +66,7 @@ This **Voice Authentication System** verifies a user's identity based on their v
 ### 🌱 Currently Learning:
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) ![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23009688.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23013243.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ## ☘️ Currently Learning
 
