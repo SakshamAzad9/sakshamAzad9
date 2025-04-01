@@ -120,7 +120,7 @@ I'm always on the lookout for the latest advancements in **AI** and **machine le
 
 - **GitHub**: [SakshamAzad9](https://github.com/SakshamAzad9)
 - **LinkedIn**: [Saksham Azad](https://www.linkedin.com/in/saksham-azad-38913a22a/)
-- **Website**: [Coming Soom](incomming_Soon)
+- **Website**: [sakhamazad_gamma](https://saksham-azad-ai-uls15zd.gamma.site/)
 
 ---
 
